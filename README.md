@@ -6,3 +6,4 @@
 5.api<br>
   智慧喜：http://127.0.0.1:8000/apiapp/userdata_wash/<br>
   碳制郎：http://127.0.0.1:8000/apiapp/userdata_carbon/<br>
+6.無法限制使用系統對資料新增、查詢、修改、刪除
