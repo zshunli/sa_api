@@ -1,1 +1,5 @@
 # sa_api
+安裝 djangorestframework
+資料表的sUserID把default值拿掉了
+連接api時要登入管理員，否則要把settings.py的驗證拿掉
+app裡新增serializers.py和viewsets.py
